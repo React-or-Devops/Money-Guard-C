@@ -1,1 +1,28 @@
+<<<<<<< HEAD
 
+=======
+@media (max-width: 639px){  /* mobile */ }
+@media (min-width: 640px) and (max-width: 1023px){ /* tablet */ }
+@media (min-width: 1024px){ /* desktop */ }
+:root{
+  --bg:#101010;
+  --white:#FBFBFB;
+  --white60:rgba(255,255,255,.6);
+  --white40:rgba(255,255,255,.4);
+  --formGlass:rgba(255,255,255,.1);
+  --accent1:#6D54EB;
+  --accent2:#652392;
+  --accent3:#302E8E;
+  --accent4:#6D1C77;
+  --btnGrad:linear-gradient(96.76deg,#FFC727 -16.42%,#9E40BA 97.04%,#7000FF 150.71%);
+}
+
+html,body,#root{height:100%}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--white);
+  font-family:Poppins,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+*{box-sizing:border-box}
+>>>>>>> acd95bb (Initial commit)

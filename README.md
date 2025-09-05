@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Money-Guard-C
+=======
+# React + Vite
+>>>>>>> acd95bb (Initial commit)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Header from "../../components/Header/Header";
 import { useSelector, useDispatch } from "react-redux";
 import {
@@ -71,3 +72,10 @@ const DashboardPage = () => {
 };
 
 export default DashboardPage;
+=======
+import styles from "./DashboardPage.module.css";
+
+export default function DashboardPage() {
+  return <h1 className={styles.page}>Başarılı oldu</h1>;
+}
+>>>>>>> acd95bb (Initial commit)

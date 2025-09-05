@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "money-guard",
+=======
+  "name": "react-final",
+>>>>>>> acd95bb (Initial commit)
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +17,7 @@
     "@hookform/resolvers": "^5.2.1",
     "@reduxjs/toolkit": "^2.8.2",
     "axios": "^1.11.0",
+<<<<<<< HEAD
     "chart.js": "^4.5.0",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
@@ -36,6 +41,15 @@
     "react-swipeable": "^7.0.2",
     "react-toastify": "^11.0.5",
     "recharts": "^3.1.2",
+=======
+    "modern-normalize": "^3.0.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-hook-form": "^7.62.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.8.2",
+    "redux": "^5.0.1",
+>>>>>>> acd95bb (Initial commit)
     "redux-persist": "^6.0.0",
     "yup": "^1.7.0"
   },
@@ -43,7 +57,11 @@
     "@eslint/js": "^9.33.0",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
+<<<<<<< HEAD
     "@vitejs/plugin-react": "^5.0.0",
+=======
+    "@vitejs/plugin-react-swc": "^4.0.0",
+>>>>>>> acd95bb (Initial commit)
     "eslint": "^9.33.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
