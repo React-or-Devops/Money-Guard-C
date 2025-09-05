@@ -1,0 +1,74 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.label {
+  font-size: 18px;
+  color: var(--white60);
+}
+
+.input {
+  width: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--white);
+  padding: 6px 0;
+  font-size: 16px;
+}
+
+.underline {
+  height: 1px;
+  width: 100%;
+  background: var(--white40);
+}
+
+.err {
+  color: #ff7a7a;
+  font-size: 12px;
+  min-height: 16px;
+}
+
+.primaryBtn {
+  margin-top: 16px;
+  height: 50px;
+  border: none;
+  border-radius: 20px;
+  background: var(--btnGrad);
+  color: var(--white);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-shadow: 1px 9px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.2s ease;
+}
+.primaryBtn:hover {
+  filter: brightness(1.1);
+  transform: translateY(-2px);
+}
+.primaryBtn:active {
+  transform: translateY(0);
+}
+
+.secondaryBtn {
+  margin-top: 8px;
+  height: 50px;
+  border: 1px solid #4A56E2;
+  border-radius: 20px;
+  background: #FCFCFC;
+  color: #623F8B;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 50px;
+  cursor: pointer;
+  box-shadow: 1px 9px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+.secondaryBtn:hover {
+  background: #f0f0f0;
+  transform: translateY(-2px);
+}
