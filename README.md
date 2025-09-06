@@ -1,12 +1,86 @@
-# Money-Guard-C
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 💰 Money Guard - Finansal Özgürlüğe Açılan Kapınız
 
-Currently, two official plugins are available:
+**Money Guard**, kişisel harcamalarınızı kolayca takip etmeniz, gelir ve giderlerinizi analiz etmeniz ve finansal hedeflerinize ulaşmanız için tasarlanmış modern ve sezgisel bir web uygulamasıdır. Paranızı yönetmek hiç bu kadar kolay ve şık olmamıştı!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Money Guard Dashboard](src/assets/img/iMac_dash.webp)
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img src="src/assets/img/tablet_dash.webp" alt="Tablet Versiyon" width="48%">
+  &nbsp;
+  <img src="src/assets/img/mobile_dash.webp" alt="Mobil Versiyon" width="48%">
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Öne Çıkan Özellikler
+
+- **💸 Gelir ve Gider Takibi:** Tüm para hareketlerinizi tek bir yerden kaydedin ve yönetin.
+- **📊 Etkileşimli İstatistikler:** Harcamalarınızı renkli grafikler ve detaylı tablolarla analiz edin. Hangi kategoriye ne kadar harcadığınızı anında görün.
+- **📅 Tarihe Göre Filtreleme:** Belirli bir ay ve yıla ait işlem özetinizi kolayca görüntüleyin.
+- **🔄 Anlık Bakiye:** Toplam bakiyeniz her işlemde anında güncellenir.
+- **💵 Döviz Kurları:** Monobank API'si ile entegre, güncel döviz kurlarını takip edin (USD, EUR).
+- **🔐 Güvenli Kimlik Doğrulama:** Kişisel finansal verileriniz güvende. Kayıt olun, giriş yapın ve güvenle kullanın.
+- **📱 Tamamen Duyarlı (Responsive) Tasarım:** İster masaüstü, ister tablet, ister mobil cihazınızdan kusursuz bir deneyim yaşayın.
+- **🎨 Modern ve Kullanıcı Dostu Arayüz:** Finansal yönetimi sıkıcı bir görevden keyifli bir alışkanlığa dönüştüren şık tasarım.
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+Bu proje, en modern web teknolojileri kullanılarak geliştirilmiştir:
+
+- **Frontend:** [React](https://reactjs.org/)
+- **State Management:** [Redux Toolkit](https://redux-toolkit.js.org/)
+- **Routing:** [React Router](https://reactrouter.com/)
+- **Stil:** CSS Modules, [Clsx](https://github.com/lukeed/clsx)
+- **Form Yönetimi:** [React Hook Form](https://react-hook-form.com/)
+- **Veri Görselleştirme:** [Recharts](https://recharts.org/)
+- **API İstekleri:** [Axios](https://axios-http.com/)
+- **Build Aracı:** [Vite](https://vitejs.dev/)
+- **Linting:** [ESLint](https://eslint.org/)
+
+---
+
+## 🚀 Projeyi Yerel Makinede Çalıştırma
+
+Projeyi kendi bilgisayarınızda denemek için aşağıdaki adımları izleyin:
+
+1.  **Projeyi klonlayın:**
+    ```bash
+    git clone https://github.com/your-username/money-transaction-teamhw-group-c-main.git
+    ```
+
+2.  **Proje dizinine gidin:**
+    ```bash
+    cd money-transaction-teamhw-group-c-main
+    ```
+
+3.  **Gerekli paketleri yükleyin:**
+    ```bash
+    npm install
+    ```
+
+4.  **Geliştirme sunucusunu başlatın:**
+    ```bash
+    npm run dev
+    ```
+
+5.  Tarayıcınızda `http://localhost:5173` (veya terminalde belirtilen adresi) açın.
+
+---
+
+## 👥 Ekip
+
+Bu proje, harika bir ekip çalışmasının ürünüdür:
+
+**Grup C**
+
+- [Ekip Üyesi 1](https://github.com/link) - Rolü
+- [Ekip Üyesi 2](https://github.com/link) - Rolü
+- [Ekip Üyesi 3](https://github.com/link) - Rolü
+- ...
+
+---
+
+Finansal durumunuzu kontrol altına almaya hazır mısınız? **Money Guard** ile başlayın!
