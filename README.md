@@ -1,15 +1,6 @@
-
 # 💰 Money Guard - Finansal Özgürlüğe Açılan Kapınız
 
 **Money Guard**, kişisel harcamalarınızı kolayca takip etmeniz, gelir ve giderlerinizi analiz etmeniz ve finansal hedeflerinize ulaşmanız için tasarlanmış modern ve sezgisel bir web uygulamasıdır. Paranızı yönetmek hiç bu kadar kolay ve şık olmamıştı!
-
-![Money Guard Dashboard](src/assets/img/iMac_dash.webp)
-
-<p align="center">
-  <img src="src/assets/img/tablet_dash.webp" alt="Tablet Versiyon" width="48%">
-  &nbsp;
-  <img src="src/assets/img/mobile_dash.webp" alt="Mobil Versiyon" width="48%">
-</p>
 
 ---
 
@@ -76,10 +67,7 @@ Bu proje, harika bir ekip çalışmasının ürünüdür:
 
 **Grup C**
 
-- [Ekip Üyesi 1](https://github.com/link) - Rolü
-- [Ekip Üyesi 2](https://github.com/link) - Rolü
-- [Ekip Üyesi 3](https://github.com/link) - Rolü
-- ...
+![Ekibimiz](src/assets/image.png)
 
 ---
 
